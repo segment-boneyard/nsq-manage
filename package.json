@@ -1,6 +1,6 @@
 {
   "name": "nsq-manage",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": "segmentio/nsq-manage",
   "license": "MIT",
   "dependencies": {
