@@ -1,0 +1,9 @@
+{
+  "name": "nsq-manage",
+  "version": "0.0.0",
+  "repository": "segmentio/nsq-manage",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "~0.17.0"
+  }
+}
