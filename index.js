@@ -4,6 +4,7 @@ var assert = require('assert');
 module.exports = Manage;
 
 function Manage(nsqd){
+  if (!(this instanceof Manage)) return new Manage(nsqd);
   assert(nsqd, 'nsqd required');
   this.nsqd = nsqd;
 }
