@@ -1,3 +1,4 @@
+[![Build Status](https://circleci.com/gh/segmentio/nsq-manage.png?circle-token=32f95a26531457eb2db113cff8d28fb1e3fb29e3)](https://circleci.com/gh/segmentio/nsq-manage)
 
 # nsq-manage
 
