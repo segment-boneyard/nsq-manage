@@ -75,7 +75,7 @@ function wrap(fn){
   return function(err, res){
     if (err) return fn(err);
     if (!res.ok) return fn(res.text);
-    fn();
+    fn(null, res.body);
   };
 };
 
