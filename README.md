@@ -2,7 +2,7 @@
 
 # nsq-manage
 
-  Manage nsqd instances.
+  Manage nsqd instances. Basically a lightweight wrapper about nsqd's http api.
 
 ## Installation
 
